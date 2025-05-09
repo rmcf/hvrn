@@ -1,0 +1,170 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Залізничний міст",
+        "ua": "Залізничний міст"
+      },
+      "id": 1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.85468, 48.34028]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Гімназія, школа №5",
+        "ua": "Гімназія, школа №5"
+      },
+      "id": 2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.85372, 48.34172]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Стадіон Прибужець",
+        "ua": "Стадіон Прибужець"
+      },
+      "id": 3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.85588, 48.34192]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Парк Перемоги",
+        "ua": "Парк Перемоги"
+      },
+      "id": 4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86581, 48.34186]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Будинок культури",
+        "ua": "Будинок культури"
+      },
+      "id": 5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86801, 48.34095]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Пам'ятник паровозу",
+        "ua": "Пам'ятник паровозу"
+      },
+      "id": 6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86754, 48.33985]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Тепловозо-ремонтний завод",
+        "ua": "Тепловозо-ремонтний завод"
+      },
+      "id": 7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86703, 48.33988]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Пам'ятник жертвам Голодомору",
+        "ua": "Пам'ятник жертвам Голодомору"
+      },
+      "id": 8
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86794, 48.33406]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "ГЕС і вид на кар'єр",
+        "ua": "ГЕС і вид на кар'єр"
+      },
+      "id": 9
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86662, 48.32731]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Гранітні будинки",
+        "ua": "Гранітні будинки"
+      },
+      "id": 10
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.86009, 48.33842]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Католицький храм",
+        "ua": "Католицький храм"
+      },
+      "id": 11
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.85774, 48.33942]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": {
+        "en": "Точка огляду Поліцейська застава",
+        "ua": "Точка огляду Поліцейська застава"
+      },
+      "id": 12
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.85265, 48.33759]
+    }
+  }
+]

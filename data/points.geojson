@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Залізничний міст", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.85468, 48.34028 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Гімназія, школа №5", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.85372, 48.34172 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Стадіон Прибужець", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.85588, 48.34192 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Парк Перемоги", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86581, 48.34186 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Будинок культури", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86801, 48.34095 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Пам'ятник паровозу", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86754, 48.33985 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Тепловозо-ремонтний завод", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86703, 48.33988 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Пам'ятник жертвам Голодомору", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86794, 48.33406 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "ГЕС і вид на кар'єр", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86662, 48.32731 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Гранітні будинки", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.86009, 48.33842 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Католицький храм", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.85774, 48.33942 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Точка огляду Поліцейська застава", "altitude": null }, "geometry": { "type": "Point", "coordinates": [ 29.85265, 48.33759 ] } }
+]
+}
